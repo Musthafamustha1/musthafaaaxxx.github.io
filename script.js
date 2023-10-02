@@ -77,7 +77,7 @@ var addFootClass = function(id) {
 // Typing Effect Animation Script
 
 var typed = new Typed(".typing", {
-	strings: ["Boxer", "Kabbadi Master", "chef", "selambam player"],
+	strings: ["Boxer", "Kabbadi Master", "chef", "selambam Master"],
 	typeSpeed: 100,
 	backSpeed: 40,
 	loop: true
