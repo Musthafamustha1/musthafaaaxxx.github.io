@@ -14,9 +14,9 @@ themeIcon.onclick = function() {
     skillTheme.classList.toggle("bgtheme");
     contactTheme.classList.toggle("bgtheme");
     if(document.body.classList.contains("dark-theme")) {
-        themeIcon.src = "./Theme/dark theme icon/moon.png"
+        themeIcon.src = "moon.png"
     }else {
-        themeIcon.src = "./Theme/dark theme icon/sun.png"
+        themeIcon.src = "sun.png"
     }
 }
 
