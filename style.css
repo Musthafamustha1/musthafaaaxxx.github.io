@@ -119,7 +119,7 @@ a {
 .hero::before {
     content: "";
     position: absolute;
-    background: url('background.jpg');
+    background: #000;
     left: 0;
     height: 100vh;
     width: 100%;
